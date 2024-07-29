@@ -15,7 +15,7 @@ FindEats :fork_and_knife: is an innovative solution designed using Google Apps S
     
 
 # Google Apps Script 
-inside the appscripts source code folder :https://github.com/saladbkp/FindEats/tree/main/appscript%20source%20code
+Inside the appscripts source code folder :https://github.com/saladbkp/FindEats/tree/main/appscript%20source%20code
 # AppSheet Link: 
 https://www.appsheet.com/newshortcut/c4cc6038-3c5a-4d42-8ed8-d93f4bb5d360
 # Notion Link: 
