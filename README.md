@@ -10,7 +10,7 @@ FindEats :fork_and_knife: is an innovative solution designed using Google Apps S
 7. Likes and Save Features :heart:
 8. User Reviews and Comments :speak_no_evil:
 9. Bazaar Input :loudspeaker:
-10. Email Notification for Likes 	:envelope:
+10. Email Notification for Likes :email:
 11. Event Scheduling and Calendar :calendar:
     
 
@@ -20,5 +20,7 @@ inside the appscripts source code folder :https://github.com/saladbkp/FindEats/t
 https://www.appsheet.com/newshortcut/c4cc6038-3c5a-4d42-8ed8-d93f4bb5d360
 # Notion Link: 
 https://www.notion.so/Foodie-Notion-Calendar-da46fad496904653b2d34b5fd867d0cd?pvs=4 
+# Demo Videos Link:
+
 
 
